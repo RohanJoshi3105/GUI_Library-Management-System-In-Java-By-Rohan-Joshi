@@ -1,6 +1,7 @@
 # GUI-Library-Management-System-Using-Java-Swing-JDBC-MySQL
 Technologies used :- Java, Java Swing, AWT, JDBC and MySQL.  This System maintains the information and Transactions about the Books and 
 Members of library.
+
 STEPS:-
 1) Download "mysql-connector-java-5.1.23-bin" or later version to connect with the MySQL Database.
 2) In MySQL create one database.Example "smartlib".
